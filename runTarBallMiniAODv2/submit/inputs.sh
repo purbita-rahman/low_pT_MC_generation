@@ -1,0 +1,6 @@
+TARBALL=g2200_X700_delm100_slc7_amd64_gcc700_CMSSW_10_6_19_tarball.tar.xz
+HADRONIZER=g2200_X700_delm100_slc7_amd64_gcc700_CMSSW_10_6_19_hadronizer.py
+PROCESS=g2200_X700_delm100_slc7_amd64_gcc700_CMSSW_10_6_19
+dirname=g2200_X700_delm100_slc7_amd64_gcc700_CMSSW_10_6_19
+USERNAME=pprova
+MERGE=0
